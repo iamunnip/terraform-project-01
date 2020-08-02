@@ -1,5 +1,7 @@
 # terraform-project-01
-My sample terraform code
+My sample terraform code.
+
+Credits: freeCodeCamp course (https://www.youtube.com/watch?v=SLB_c_ayRMo)
 
 Please note, I'm still learning Terraform! :)
 
