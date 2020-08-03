@@ -1,9 +1,8 @@
 # terraform-project-01
-My sample terraform code.
+Sample terraform code.
 
-Credits:
+**Credits**   
 freeCodeCamp course (https://www.freecodecamp.org/news/how-to-use-terraform-to-automate-your-aws-cloud-infrastructure-tutorial/)
-YouTube link (https://www.youtube.com/watch?v=SLB_c_ayRMo)
 
 Please note, I'm still learning Terraform! :)
 
